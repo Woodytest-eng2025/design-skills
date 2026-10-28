@@ -5,9 +5,10 @@ component system, a perceptually tuned palette, readable type, honest diagrams, 
 README that does not look like everyone else's.
 
 <p>
-  <img alt="license" src="https://img.shields.io/badge/license-MIT-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white">
-  <img alt="skills" src="https://img.shields.io/badge/skills-8-6366F1?style=flat-square&logo=readme&logoColor=white">
-  <img alt="validate" src="https://img.shields.io/badge/validate-passing-22C55E?style=flat-square&logo=githubactions&logoColor=white">
+  <a href="https://github.com/Woodytest-eng2025/design-skills/actions/workflows/validate.yml"><img alt="validate" src="https://github.com/Woodytest-eng2025/design-skills/actions/workflows/validate.yml/badge.svg?branch=main"></a>
+  <a href="LICENSE"><img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white"></a>
+  <img alt="skills: 8" src="https://img.shields.io/badge/skills-8-6366F1?style=flat-square&logo=readme&logoColor=white">
+  <a href="https://github.com/Woodytest-eng2025/design-skills/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Woodytest-eng2025/design-skills?style=flat-square&color=F5B301&logo=github"></a>
   <img alt="works with" src="https://img.shields.io/badge/agents-DSH%20%C2%B7%20Claude%20Code%20%C2%B7%20Codex-0F172A?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
